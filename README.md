@@ -1,8 +1,5 @@
-<center>
-
 - I'll give you a head start.
 
-</center>
 <br>
 
-$$lim_{n→\infty}\frac{1}{n}\sum_{k=0}^{n-1}{f(T^kx)}=E(f)$$
+$$2\zeta(k)E_k(z)=\sum_{m,n=-\infty}^{\infty}\frac{1}{(mz+n)^k}$$
