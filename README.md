@@ -1,5 +1,5 @@
 - EVERYTHING GREAT COMES EASY.
-- 著 力 即 差 。
+- 著 力 即 差  。
 
 <br>
 
