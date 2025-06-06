@@ -1,5 +1,1 @@
-Something Stupid
-
-<br>
-
-$$1+1=2$$
+乎 種 有 寧 相 將 矦 王
